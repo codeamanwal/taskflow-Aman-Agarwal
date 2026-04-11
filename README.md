@@ -250,10 +250,8 @@ The following will result in immediate rejection, regardless of other quality:
 ## Submission Instructions
 
 1. **Create a public GitHub repository** — name it `taskflow-[your-name]`
-2. **Repo structure** — monorepo with `/backend` and `/frontend` directories, or two separate repos linked from the README. `docker-compose.yml` at root.
-3. **No secrets in git** — commit `.env.example`, never `.env`. If you accidentally commit secrets, rotate them before submitting.
-4. **Send us the link** — reply to the assignment email with your GitHub URL before the deadline.
-5. **Expect a code review call** — we'll schedule a 30-minute session to walk through your decisions. You should be able to explain any part of your code.
+2. **No secrets in git** — commit `.env.example`, never `.env`. If you accidentally commit secrets, rotate them before submitting.
+
 
 ---
 
